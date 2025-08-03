@@ -24,7 +24,7 @@ const App = () => {
           <Route path='generate-images' element={<Generatelmage />} />
           <Route path='remove-background' element={<RemoveBackGround />} />
           <Route path='remove-object' element={<RemoveObject />} />
-          <Route path='reviwe-resume' element={<Reviweresume />} />
+          <Route path='review-resume' element={<Reviweresume />} />
           <Route path='community' element={<Community />} />
 
         </Route>
