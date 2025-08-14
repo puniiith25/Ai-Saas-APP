@@ -34,7 +34,7 @@ It offers a clean UI, seamless user experience, and integration with powerful AI
 
 ## 📂 Folder Structure
 
-Cool-ai/   \n
+"Cool-ai/   \n
 ├── frontend/
 │ ├── src/
 │ │ ├──assetes/
@@ -50,7 +50,7 @@ Cool-ai/   \n
 │ ├── server.js
 │
 └── README.md
-
+"
 
 ---
 
