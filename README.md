@@ -9,7 +9,7 @@ It offers a clean UI, seamless user experience, and integration with powerful AI
 
 - 🧠 Multiple AI tools in a single platform  
 - 🎨 Beautiful and responsive UI (React.js + Tailwind CSS)  
-- 🔐 Authentication Using with clerk  
+- 🔐 Authentication Using with  ClerkProvider
 - ⚡ Fast API integration for instant results  
 - 📱 Mobile-friendly design  
 
@@ -21,7 +21,8 @@ It offers a clean UI, seamless user experience, and integration with powerful AI
 - React.js  
 - Tailwind CSS  
 - Axios  
-- React Router  
+- React Router
+- ClerkProvider
 
 **Backend:**  
 - Node.js  
@@ -58,7 +59,7 @@ Cool-ai/
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**
-```bash```
+```bash
 git clone https://github.com/puniiith25/cool-ai.git
 cd cool-ai
 # Backend
@@ -69,17 +70,19 @@ npm install
 cd ../frontend
 npm install
 
-
+```
 ---
 
 
 ## 🍃 Add environment variables
+```
 
 PORT=8000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 AI_API_KEY=your_api_key_here
 
+```
 
 ⚠️ Note: The frontend is nearly complete. The backend is currently under development and will be available soon.
 
